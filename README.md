@@ -1,5 +1,5 @@
 # Olá, eu sou o Lucas 👨‍💻! Que bom ver você por aqui! <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/wave.gif?token=ATQS65XWY4MME7NJYAZ4LCTBN34AU" width="30px">
-<img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
+<img src="https://i.ibb.co/8m351DP/1643823964128.jpg">
 
 ## 👨🏻‍💻 &nbsp;Sobre mim:
 📝 &nbsp;Sou um desenvolvedor web fullstack júnior, sempre em busca de conhecimento.\
