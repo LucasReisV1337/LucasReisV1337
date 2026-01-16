@@ -1,16 +1,87 @@
-## Hi there 👋
+## Hi, I'm Lucas Reis 👋
 
-<!--
-**LucasReisV1337/LucasReisV1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Software Engineer with solid experience building scalable, reliable, and cloud-native systems.  
+I focus on clean architecture, performance, and maintainable code, always aiming to deliver real business value.
 
-Here are some ideas to get you started:
+- 💻 **Mid-Level Backend Software Engineer**
+- 🎓 **Bachelor’s Degree in Science and Technology** – UFBA (Federal University of Bahia)
+- 📧 **Email:** lucareisvasconcelos@gmail.com | l.vasconcelos@ufba.br
+- 🌐 **Portfolio:** https://lucasreis.vercel.app/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 Core Languages
+
+[![Languages](https://skillicons.dev/icons?i=ts,js,py,html,css)](https://skillicons.dev)
+
+---
+
+## 🛠️ Frameworks, Tools & Technologies
+
+[![Tech Stack](https://skillicons.dev/icons?i=nodejs,nestjs,express,react,nextjs,tailwind,postgres,mongodb,redis,rabbitmq,prisma,docker,aws,postman,git,vscode,figma,npm)](https://skillicons.dev)
+
+---
+
+## 📚 Currently Studying
+
+[![Studying](https://skillicons.dev/icons?i=golang,java,spring,nginx)](https://skillicons.dev)
+
+---
+
+## 💼 Professional Experience
+
+<br/>
+
+[<img align="left" height="94px" width="95px" alt="BanQi Logo" style="padding-right:10px" src="https://media.licdn.com/dms/image/v2/C4D0BAQEwkSV6cs9S7w/company-logo_200_200/company-logo_200_200/0/1630526842973/banqi_logo?e=1770249600&v=beta&t=n6eaplLf_m6bWODxqohjhTF4cT_BcSuwgS5kYj2YnpI"/>](https://www.banqi.com.br/)
+**Mid-Level Backend Software Engineer**  
+**BanQi | Casas Bahia**  
+**Nov 2024 – Present**
+
+- Backend development focused on scalability and reliability
+- Design and maintenance of event-driven and serverless architectures  
+- Integration with AWS services and messaging systems
+- Mentorship and training of entry-level and junior developers
+
+**Tech Stack:**  
+`NestJS`, `Python`, `AWS`, `Lambda`, `S3`, `SQS`
+
+<br/>
+
+[<img align="left" height="94px" width="95px" alt="USE Uniforme Logo" style="padding-right:10px" src="https://media.licdn.com/dms/image/v2/D4D0BAQHGFllPxtrhHw/company-logo_200_200/company-logo_200_200/0/1698956537258/use_uniforme_logo?e=1770249600&v=beta&t=QbOTkLCkwYwySajYOTE0AoMy2DLgOU4ToaER5rOnX8k"/>](https://useuniforme.com.br)
+**Backend Software Engineer**  
+**USE Uniforme**  
+**Jun 2023 – Nov 2024**
+
+- Development of APIs and backend services
+- Performance optimization and caching strategies
+- Collaboration with frontend and product teams  
+
+**Tech Stack:**  
+`NestJS`, `PostgreSQL`, `Redis`, `RabbitMQ`, `Express`, `Next.js`, `Tailwind CSS`, `GCP`
+
+<br/>
+
+[<img align="left" height="94px" width="95px" alt="Kofre Logo" style="padding-right:10px" src="https://media.licdn.com/dms/image/v2/C4D0BAQEj_wGfszNnig/company-logo_200_200/company-logo_200_200/0/1649870916035/kofretecnologia_logo?e=1770249600&v=beta&t=dbSiq2T6lXMW0pXbk_obK7rQBAhHr9JNm-hhLasoqBo"/>](https://kofre.com.br)
+**Full Stack Developer**  
+**Kofre Tecnologia**  
+**Jul 2021 – Jun 2023**
+
+- End-to-end development of web applications
+- API design, background processing and containerization
+- Close collaboration with designers and stakeholders  
+
+**Tech Stack:**  
+`NestJS`, `Prisma`, `PostgreSQL`, `Redis`, `Docker`, `RabbitMQ`, `Python`, `Next.js`, `Tailwind CSS`
+
+<br/>
+
+[<img align="left" height="94px" width="95px" alt="TITAN Logo" style="padding-right:10px" src="https://i.postimg.cc/MTVRBN1C/TITAN.png"/>](https://titanci.com.br)
+**Software Developer**  
+**TITAN – Computer Engineering Junior Company (UFBA)**  
+**Sep 2023 – Jan 2026**
+
+- Full stack development in real-world client projects
+- Strong focus on code quality and validation  
+
+**Tech Stack:**  
+`TypeScript`, `JavaScript`, `Node.js`, `Next.js`, `Prisma`, `Strapi`, `PostgreSQL`, `Zod`
