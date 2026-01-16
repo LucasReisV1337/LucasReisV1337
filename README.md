@@ -78,7 +78,7 @@ I focus on clean architecture, performance, and maintainable code, always aiming
 [<img align="left" height="94px" width="95px" alt="TITAN Logo" style="padding-right:10px" src="https://i.postimg.cc/MTVRBN1C/TITAN.png"/>](https://titanci.com.br)
 **Software Developer**  
 **TITAN – Computer Engineering Junior Company (UFBA)**  
-**Sep 2023 – Jan 2026**
+**Feb 2022 – Jan 2024**
 
 - Full stack development in real-world client projects
 - Strong focus on code quality and validation  
