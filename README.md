@@ -32,9 +32,9 @@ I focus on clean architecture, performance, and maintainable code, always aiming
 
 <br/>
 
-[<img align="left" height="94px" width="95px" alt="BanQi Logo" style="padding-right:10px" src="https://media.licdn.com/dms/image/v2/C4D0BAQEwkSV6cs9S7w/company-logo_200_200/company-logo_200_200/0/1630526842973/banqi_logo?e=1770249600&v=beta&t=n6eaplLf_m6bWODxqohjhTF4cT_BcSuwgS5kYj2YnpI"/>](https://www.banqi.com.br/)
+[<img align="left" height="94px" width="95px" alt="BanQi Logo" style="padding-right:10px" src="https://www.casasbahiapay.com.br/assets/logo-DlaKg1eT.svg"/>](https://www.banqi.com.br/)
 **Mid-Level Backend Software Engineer**  
-**BanQi | Casas Bahia**  
+**Casas Bahia Pay**  
 **Nov 2024 – Present**
 
 - Backend development focused on scalability and reliability
@@ -43,11 +43,11 @@ I focus on clean architecture, performance, and maintainable code, always aiming
 - Mentorship and training of entry-level and junior developers
 
 **Tech Stack:**  
-`NestJS`, `Python`, `AWS`, `Lambda`, `S3`, `SQS`
+`NestJS`, `Python`, `AWS`(`Lambda`, `S3`, `SQS`...)
 
 <br/>
 
-[<img align="left" height="94px" width="95px" alt="USE Uniforme Logo" style="padding-right:10px" src="https://media.licdn.com/dms/image/v2/D4D0BAQHGFllPxtrhHw/company-logo_200_200/company-logo_200_200/0/1698956537258/use_uniforme_logo?e=1770249600&v=beta&t=QbOTkLCkwYwySajYOTE0AoMy2DLgOU4ToaER5rOnX8k"/>](https://useuniforme.com.br)
+[<img align="left" height="94px" width="95px" alt="USE Uniforme Logo" style="padding-right:10px" src="https://i.ibb.co/Kp3S4tch/398080519-914591283627145-668930120367141359-n.jpg"/>](https://useuniforme.com.br)
 **Backend Software Engineer**  
 **USE Uniforme**  
 **Jun 2023 – Nov 2024**
@@ -61,7 +61,7 @@ I focus on clean architecture, performance, and maintainable code, always aiming
 
 <br/>
 
-[<img align="left" height="94px" width="95px" alt="Kofre Logo" style="padding-right:10px" src="https://media.licdn.com/dms/image/v2/C4D0BAQEj_wGfszNnig/company-logo_200_200/company-logo_200_200/0/1649870916035/kofretecnologia_logo?e=1770249600&v=beta&t=dbSiq2T6lXMW0pXbk_obK7rQBAhHr9JNm-hhLasoqBo"/>](https://kofre.com.br)
+[<img align="left" height="94px" width="95px" alt="Kofre Logo" style="padding-right:10px" src="https://kofre.com.br/wp-content/uploads/2021/06/cropped-layout-logo.png"/>](https://kofre.com.br)
 **Full Stack Developer**  
 **Kofre Tecnologia**  
 **Jul 2021 – Jun 2023**
